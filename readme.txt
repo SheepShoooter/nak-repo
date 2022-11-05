@@ -1,7 +1,5 @@
-1st change 
-
-1st change feature123
-
+1st change feature
+======
 2nd change
 
 3rd change
